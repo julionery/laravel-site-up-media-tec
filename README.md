@@ -1,5 +1,5 @@
 # SiteUpMediaTec
-Site institucional totalmente gerenciado pelo painel administrativo. Desenvolvido em PHP + Laravel.
+Site institucional totalmente gerenciado pelo painel administrativo. Desenvolvido em PHP + Laravel + MySQL.
 
 Login com integração com GitHub, Facebook, Twitter e Google.
 
